@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Arturo Freydig Avila</title>
-    <link>https://example.com/projects/</link>
+    <link>https://arturofa95.github.io/projects/</link>
     <description>Recent content in Projects on Arturo Freydig Avila</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 06 Jul 2020 22:00:23 -0700</lastBuildDate>
     
-	<atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arturofa95.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Selected Projects</title>
-      <link>https://example.com/projects/selected_projects/</link>
+      <link>https://arturofa95.github.io/projects/selected_projects/</link>
       <pubDate>Mon, 06 Jul 2020 22:00:23 -0700</pubDate>
       
-      <guid>https://example.com/projects/selected_projects/</guid>
+      <guid>https://arturofa95.github.io/projects/selected_projects/</guid>
       <description>The purpose of this post is to highlight most of the projects I have done as a graduate/undergraduate student, intern, and hobbyist. I will explain in more detail the projects listed here in different posts.
 Machine Learning ML) / Artificial Intelligence (AI) Projects  Obstacle Avoidance Navigation using Radial Basis Network (one and two layers) COVID-19 X-Ray Based Detection using a Convolutional Neural Network (CNN) COVID-19 Case Prediction using a Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), and a Gated Recurrent Unit (GRU) Neural Ordinary Differential Equations (ODE) Survey Notebook Atari Paper Overview Notebook PyTorch vs Keras Notebook CNN to detect Birds using Wi-Fi Long Distance and a Raspberry Pi Using a CNN to detect the work yes and light and LED in a microcontroller (TinyML) Tarea de Data  Control Systems Projects  Obstacle Avoidance Navigation using Classic Averaging and Perturbation Theory and Hybrid Control based on Point-Mass and Nonholonomic Dynamics Inverted Pendulum Control using a PID and an LQR Controller 1-D Vehicle Control Simulation using Digital Control  Electrical/Electronics  Wireless Glove Vehicle Controller Softrobot Capable of Grabbing Light-weight Cans LED PCB Board Sensor projects Various ESP32, Arduino, and Raspberry Pi projects FPGA Projects Software Define Radio (SDR) Emotion Detection Door handle based on phone movement Solar Microgrid with LiFePO4 Batteries  Mechanical Projects  Mechanical Drill Vehicle CAD Helicopter Design Double Steam Design (Thermo) Algo con manufacturing Gravity-based Lamp Structure for lld  Software projects  C++ FPGA Interface and Bit Reader (intern project) Python-based GUI for Controller (intern project) MATLAB Control Systems Toolbox Examples C++ Data Structure&amp;rsquo;s Examples  StartUp Projects  LiFePO4 Battery Design and Supplier StartUp (Failed due to political issues in Bolivia) StartUp Stock Market (Failed due to different interests from founders)  Others  St.</description>
     </item>
