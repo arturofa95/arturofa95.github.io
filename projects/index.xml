@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Arturo Freydig Avila</title>
-    <link>https://arturofa95.github.io/projects/</link>
+    <link>https://arturofreydig.com/projects/</link>
     <description>Recent content in Projects on Arturo Freydig Avila</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Mon, 06 Jul 2020 22:00:23 -0700</lastBuildDate>
     
-	<atom:link href="https://arturofa95.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://arturofreydig.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Selected Projects</title>
-      <link>https://arturofa95.github.io/projects/selected_projects/</link>
+      <link>https://arturofreydig.com/projects/selected_projects/</link>
       <pubDate>Mon, 06 Jul 2020 22:00:23 -0700</pubDate>
       
-      <guid>https://arturofa95.github.io/projects/selected_projects/</guid>
+      <guid>https://arturofreydig.com/projects/selected_projects/</guid>
       <description>The purpose of this post is to highlight most of the projects I have done as a graduate/undergraduate student, intern, and hobbyist. I will explain in more detail the projects listed here in different posts.
 Machine Learning ML) / Artificial Intelligence (AI) Projects  Obstacle Avoidance Navigation using Radial Basis Network (one and two layers) COVID-19 X-Ray Based Detection using a Convolutional Neural Network (CNN) COVID-19 Case Prediction using a Recurrent Neural Network (RNN), Long Short-Term Memory (LSTM), and a Gated Recurrent Unit (GRU) [Figure 6] Neural Ordinary Differential Equations (ODE) Application Notebook Atari Paper Overview Notebook PyTorch vs Keras Notebook Bird Detection via WiFi Long Distance using a Convolutional Neural Network and a Raspberry Pi [Figure 1] Using a CNN to detect the work yes and light and LED in a microcontroller (TinyML)  Control Systems Projects  Obstacle Avoidance Navigation using Classic Averaging and Perturbation Theory and Hybrid Control based on Point-Mass and Nonholonomic Dynamics [Figure 8] Inverted Pendulum Control using a PID and an LQR Controller (Waiterbot) 1-D Digital Electric Car Control Simulation in MATLAB  Electrical/Electronics  Hand Gesture Glove Control for Electronic Car [Figure 7] Soft Robot Actuator Capable of Grabbing Light-weight Cans [Figure 9] LED PCB Board Various ESP32, Arduino, and Raspberry Pi projects FPGA Projects Design/Implementation for Integrated Preselector PCB and Mechanical Components [Figure 4 and Figure 12] Emotion Detection Wristband Door handle based on phone movement Solar Microgrid with LiFePO4 Battery Pack Design and Installation [Figure 13] Object Identification using Arduino Nano and TensorFlow Lite Microprocessor Voice Recognition using TensorFlow Lite Soil Multimeter or BioPod Design  Mechanical Projects  Mechanical Drill-Powered Vehicle [Figure 2 and Figure 3] CAD (Solidworks) Helicopter Design Double Steam Design (Thermo) 3-D Printed Buff Logo Casting Mold and Cast Low-cost Gravity Lamp Power Plant with Evaporative Cooling System Design using EES Wind Turbine using Abandoned Car Parts [Figure 11] Bicycle Generator using recycled materials [Figure 5]  Software projects  C++ FPGA Interface and Bit Reader (intern project) [Figure 10] Python-based GUI for Controller (intern project) MATLAB Control Systems Toolbox Examples C++ Data Structure&amp;rsquo;s Examples Online Optimization Algorithm in MATLAB for a Distribution System with Controllable PV Sources RISC-V Five Stage-Pipeline Computer in Codasip (using Assembly) Altera DE0 Board 2-bit comparator in Verilog  StartUp Projects  LiFePO4 Battery Design and Supplier StartUp (Failed due to political issues in Bolivia) StartUp Stock Market (Failed due to different interests from founders)  Others  St.</description>
     </item>
